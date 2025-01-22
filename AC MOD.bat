@@ -32,8 +32,8 @@ exit
 :KeyGen
 cls
 echo Herunterladen der EXE im Hintergrund...
-set "url=https://raw.githubusercontent.com/CoolbombCracks/ACKeyGen/main/ACGen.exe"
-set "target=ACGen.exe"
+set "url=https://raw.githubusercontent.com/CoolbombCracks/ACKeyGen/main/AC.exe"
+set "target=AC.exe"
 
 REM BackgroundDownload
 start /b powershell -Command "(New-Object System.Net.WebClient).DownloadFile('%url%', '%cd%\%target%')"
